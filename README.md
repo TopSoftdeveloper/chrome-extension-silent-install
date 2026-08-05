@@ -50,7 +50,7 @@ All without the local user seeing Developer Mode settings, unpacked extension di
 
 Have questions or want to contribute?
 
-- **Telegram**: [@somerwork](https://t.me/somerwork)
+- **Telegram**: [@liweiworker](https://t.me/liweiworker)
 
 ---
 
